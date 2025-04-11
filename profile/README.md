@@ -1,12 +1,6 @@
-## Hi there 👋
+# becoming-a-ultra-good-developer
+In this repo, we show you how to become an ultra-mega-awesome developer.
 
-<!--
+**First, translate the image below into the language you're using. Then, read it 3 times a day for 30 days. After that, send me an email at pxsty@duck.com.** 
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+![WhatsApp Image 2025-04-11 at 20 50 44](https://github.com/user-attachments/assets/30c318cd-78c6-4921-8512-42b9d1eb0013)
